@@ -19,10 +19,10 @@ A showcase of Swing Remastered. A java swing library that remasters basic swing 
 <table>
   <tr>
     <td align="center">
-      <img src="./gifs/JRFrame_1.gif" width="500" alt="JRFrame 1">
+      <img src="./gifs/JRFrame_1.gif" width="50%" alt="JRFrame 1">
     </td>
     <td align="center">
-      <img src="./gifs/JFrame_1.gif" width="500" alt="JFrame 1">
+      <img src="./gifs/JFrame_1.gif" width="50%" alt="JFrame 1">
     </td>
   </tr>
   <tr>
