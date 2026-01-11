@@ -24,13 +24,13 @@ A showcase of Swing Remastered. A java swing library that remasters basic swing 
 - JRButton(String title)
 ### Modified functions:
 - setRadius(int radius)
-  - sets radius of the button.
+  - sets radius of.
 - setAnimationStep(double step)
   - sets speed of hover and press animations.
 - setHoverEffectIntensity(double intensity)
   - sets intensity of hover and press animations.
 - setBackground(Color bg)
-  - sets background color of the button.
+  - sets background color.
 
 ## JRCheckBox
 
@@ -63,7 +63,7 @@ A showcase of Swing Remastered. A java swing library that remasters basic swing 
 - setBackground(Color bg)
   - sets background color.
 - setHoverBackgroundColor(Color color)
-  - sets on hover backgeound color.
+  - sets on hover background color.
 - setBorderColor(Color color)
   - sets border color of the combo box
 - setHoverBorderColor(Color color)
