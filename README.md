@@ -4,19 +4,35 @@ A showcase of Swing Remastered. A java swing library that remasters basic swing 
 
 # Available Components
 ## JRButton
+
 ## JRCheckBox
+
 ## JRSCrollPane
+
 ## JRProgressBar
+
 ## JRComboBox
+
 ## JRPanel
+
 ## JRFrame
-
-<img src="./gifs/JRFrame_1.gif" width="600" alt="JRFrame showcase 1">
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="./gifs/JRFrame_1.gif" width="300" alt="JRFrame 1">
+    </td>
+    <td align="center">
+      <img src="./gifs/JFrame_1.gif" width="300" alt="JFrame 1">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Caption for GIF 1</b></td>
+    <td align="center"><b>Caption for Image 2</b></td>
+  </tr>
+</table>
 ### Constructors:
 - JRFrame()
 - JRFrame(String title)
-
 ### Available functions:
 - setTitleBarBackground(Color color)
   - sets color of the title bar.
