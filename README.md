@@ -27,7 +27,7 @@ A showcase of Swing Remastered. A java swing library that remasters basic swing 
   </tr>
   <tr>
     <td align="center"><b>Remastered</b></td>
-    <td align="center"><b>Old</b></td>
+    <td align="center"><b>default OS look(uncustomizable)</b></td>
   </tr>
 </table>
 
