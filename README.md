@@ -4,3 +4,9 @@ A showcase of Swing Remastered. A java swing library that remasters basic swing 
 
 ## Available Components
 ### JRButton
+### JRCheckBox
+### JRSCrollPane
+### JRProgressBar
+### JRComboBox
+### JRPanel
+### JRFrame
