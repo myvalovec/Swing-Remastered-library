@@ -11,7 +11,7 @@ A showcase of Swing Remastered. A java swing library that remasters basic swing 
 ## JRPanel
 ## JRFrame
 
-![JRFrame showcase 1](./resources/JRFrame1.gif)
+![JRFrame showcase 1](./gifs/JRFrame_1.gif)
 
 ### Constructors:
 - JRFrame()
