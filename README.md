@@ -4,6 +4,33 @@ A showcase of Swing Remastered. A java swing library that remasters basic swing 
 
 # Available Components
 ## JRButton
+<table>
+  <tr>
+    <td align="center">
+      <img src="./gifs/JRButton_1.gif" height="300" alt="JRButton 1">
+    </td>
+    <td align="center">
+      <img src="./gifs/JButton_1.gif" height="300" alt="JButton 1">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Remastered</b></td>
+    <td align="center"><b>old</b></td>
+  </tr>
+</table>
+
+### Constructors:
+- JRButton()
+- JRButton(String title)
+### Modified functions:
+- setRadius(int radius)
+  - sets radius of the button.
+- setAnimationStep(double step)
+  - sets speed of hover and press animations.
+- setHoverEffectIntensity(double intensity)
+  - sets intensity of hover and press animations.
+- setBackground(Color bg)
+  - sets background color of the button.
 
 ## JRCheckBox
 
@@ -12,6 +39,37 @@ A showcase of Swing Remastered. A java swing library that remasters basic swing 
 ## JRProgressBar
 
 ## JRComboBox
+<table>
+  <tr>
+    <td align="center">
+      <img src="./gifs/JRComboBox_1.gif" height="300" alt="JRComboBox 1">
+    </td>
+    <td align="center">
+      <img src="./gifs/JComboBox_1.gif" height="300" alt="JComboBox 1">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Remastered</b></td>
+    <td align="center"><b>old</b></td>
+  </tr>
+</table>
+
+### Constructors:
+- JRComboBox()
+- JRComboBox(E[] items)
+### Modified functions:
+- setAccentColor(Color color)
+  - sets accent color.
+- setBackground(Color bg)
+  - sets background color.
+- setHoverBackgroundColor(Color color)
+  - sets on hover backgeound color.
+- setBorderColor(Color color)
+  - sets border color of the combo box
+- setHoverBorderColor(Color color)
+  - sets on hover border color.
+- setRadius(int radius)
+  - sets border radius.
 
 ## JRPanel
 
@@ -34,7 +92,7 @@ A showcase of Swing Remastered. A java swing library that remasters basic swing 
 ### Constructors:
 - JRFrame()
 - JRFrame(String title)
-### Available functions:
+### Modified functions:
 - setTitleBarBackground(Color color)
   - sets color of the title bar.
 - setTitleBarForeground(Color color)
