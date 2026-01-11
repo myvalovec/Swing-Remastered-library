@@ -10,3 +10,4 @@ A showcase of Swing Remastered. A java swing library that remasters basic swing 
 ### JRComboBox
 ### JRPanel
 ### JRFrame
+![JRFrame showcase 1](resources/JRFrame1.png)
