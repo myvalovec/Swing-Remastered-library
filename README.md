@@ -30,6 +30,7 @@ A showcase of Swing Remastered. A java swing library that remasters basic swing 
     <td align="center"><b>Caption for Image 2</b></td>
   </tr>
 </table>
+
 ### Constructors:
 - JRFrame()
 - JRFrame(String title)
