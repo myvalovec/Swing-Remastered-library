@@ -34,10 +34,10 @@ A showcase of Swing Remastered. A java swing library that remasters basic swing 
 <table>
   <tr>
     <td align="center">
-      <img src="./gifs/JRCheckBox_1.gif" height="300" alt="JRCheckBox 1">
+      <img src="./gifs/JRCheckBox.gif" height="300" alt="JRCheckBox">
     </td>
     <td align="center">
-      <img src="./gifs/JCheckBox_1.gif" height="300" alt="JCheckBox 1">
+      <img src="./gifs/JCheckBox.gif" height="300" alt="JCheckBox">
     </td>
   </tr>
   <tr>
@@ -115,10 +115,10 @@ A showcase of Swing Remastered. A java swing library that remasters basic swing 
 <table>
   <tr>
     <td align="center">
-      <img src="./gifs/JRComboBox.gif" height="300" alt="JRComboBox">
+      <img src="./gifs/JRComboBox_1.gif" height="300" alt="JRComboBox 1">
     </td>
     <td align="center">
-      <img src="./gifs/JComboBox.gif" height="300" alt="JComboBox">
+      <img src="./gifs/JComboBox_1.gif" height="300" alt="JComboBox 1">
     </td>
   </tr>
   <tr>
