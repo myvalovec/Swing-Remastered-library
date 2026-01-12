@@ -58,14 +58,14 @@ A showcase of Swing Remastered. A java swing library that remasters basic swing 
 - setBorderColor(Color color)
 - setCheckColor(Color color)
 
-## JRSCrollPane
+## JRScrollPane
 <table>
   <tr>
     <td align="center">
-      <img src="./gifs/JRSCrollPane_1.gif" height="300" alt="JRSCrollPane 1">
+      <img src="./gifs/JRScrollPane_1.gif" height="300" alt="JRScrollPane 1">
     </td>
     <td align="center">
-      <img src="./gifs/JSCrollPane_1.gif" height="300" alt="JSCrollPane 1">
+      <img src="./gifs/JScrollPane_1.gif" height="300" alt="JScrollPane 1">
     </td>
   </tr>
   <tr>
@@ -115,10 +115,10 @@ A showcase of Swing Remastered. A java swing library that remasters basic swing 
 <table>
   <tr>
     <td align="center">
-      <img src="./gifs/JRComboBox_1.gif" height="300" alt="JRComboBox 1">
+      <img src="./gifs/JRComboBox.gif" height="300" alt="JRComboBox">
     </td>
     <td align="center">
-      <img src="./gifs/JComboBox_1.gif" height="300" alt="JComboBox 1">
+      <img src="./gifs/JComboBox.gif" height="300" alt="JComboBox">
     </td>
   </tr>
   <tr>
