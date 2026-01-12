@@ -24,19 +24,92 @@ A showcase of Swing Remastered. A java swing library that remasters basic swing 
 - JRButton(String title)
 ### Modified functions:
 - setRadius(int radius)
-  - sets radius of.
 - setAnimationStep(double step)
   - sets speed of hover and press animations.
 - setHoverEffectIntensity(double intensity)
   - sets intensity of hover and press animations.
 - setBackground(Color bg)
-  - sets background color.
 
 ## JRCheckBox
+<table>
+  <tr>
+    <td align="center">
+      <img src="./gifs/JRCheckBox_1.gif" height="300" alt="JRCheckBox 1">
+    </td>
+    <td align="center">
+      <img src="./gifs/JCheckBox_1.gif" height="300" alt="JCheckBox 1">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Remastered</b></td>
+    <td align="center"><b>old</b></td>
+  </tr>
+</table>
+
+### Constructors:
+- JRCheckBox()
+- JRCheckBox(String title)
+### Modified functions:
+- setBoxSize(int size)
+- setRadius(int radius)
+- setCheckStroke(float width)
+- setCheckmarkOffsets(float x, float y)
+- setBoxColor(Color color)
+- setBorderColor(Color color)
+- setCheckColor(Color color)
 
 ## JRSCrollPane
+<table>
+  <tr>
+    <td align="center">
+      <img src="./gifs/JRSCrollPane_1.gif" height="300" alt="JRSCrollPane 1">
+    </td>
+    <td align="center">
+      <img src="./gifs/JSCrollPane_1.gif" height="300" alt="JSCrollPane 1">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Remastered</b></td>
+    <td align="center"><b>old</b></td>
+  </tr>
+</table>
+
+### Constructors:
+- JRScrollPane()
+- JRScrollPane(Component holder)
+### Modified functions:
+- setBackground(Color color)
+  - sets background of the scroll pane and both scrollers tracks
+- setScrollWidth(int width)
+- setThumbRadius(int radius)
+- setThumb(Color color)
+- setCheckmarkOffsets(float x, float y)
+- setHover(Color color)
 
 ## JRProgressBar
+<table>
+  <tr>
+    <td align="center">
+      <img src="./gifs/JRProgressBar_1.gif" height="300" alt="JRProgressBar 1">
+    </td>
+    <td align="center">
+      <img src="./gifs/JProgressBar_1.gif" height="300" alt="JProgressBar 1">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Remastered</b></td>
+    <td align="center"><b>old</b></td>
+  </tr>
+</table>
+
+### Constructors:
+- JRProgressBar()
+- JRProgressBar(int min, int max)
+### Modified functions:
+- setValue(int n)
+- setTrackColor(Color track)
+- setTextColors(Color onTrack, Color onFill)
+- setRadius(int r)
 
 ## JRComboBox
 <table>
@@ -59,13 +132,9 @@ A showcase of Swing Remastered. A java swing library that remasters basic swing 
 - JRComboBox(E[] items)
 ### Modified functions:
 - setAccentColor(Color color)
-  - sets accent color.
 - setBackground(Color bg)
-  - sets background color.
 - setBorderColor(Color color)
-  - sets border color of the combo box
 - setRadius(int radius)
-  - sets border radius.
 
 ## JRPanel
 
@@ -94,6 +163,5 @@ A showcase of Swing Remastered. A java swing library that remasters basic swing 
 - setTitleBarForeground(Color color)
   - sets color of the frames title text.
 - setTitle(String title)
-  - sets title text of the frame.
 - setBackground(Color color)
   - sets the background of the frame with its borders(left, right, bottom).
