@@ -15,7 +15,7 @@ A showcase of Swing Remastered. A java swing library that remasters basic swing 
   </tr>
   <tr>
     <td align="center"><b>Remastered</b></td>
-    <td align="center"><b>old</b></td>
+    <td align="center"><b>Old</b></td>
   </tr>
 </table>
 
@@ -42,7 +42,7 @@ A showcase of Swing Remastered. A java swing library that remasters basic swing 
   </tr>
   <tr>
     <td align="center"><b>Remastered</b></td>
-    <td align="center"><b>old</b></td>
+    <td align="center"><b>Old</b></td>
   </tr>
 </table>
 
@@ -70,7 +70,7 @@ A showcase of Swing Remastered. A java swing library that remasters basic swing 
   </tr>
   <tr>
     <td align="center"><b>Remastered</b></td>
-    <td align="center"><b>old</b></td>
+    <td align="center"><b>Old</b></td>
   </tr>
 </table>
 
@@ -83,7 +83,6 @@ A showcase of Swing Remastered. A java swing library that remasters basic swing 
 - setScrollWidth(int width)
 - setThumbRadius(int radius)
 - setThumb(Color color)
-- setCheckmarkOffsets(float x, float y)
 - setHover(Color color)
 
 ## JRProgressBar
@@ -98,7 +97,7 @@ A showcase of Swing Remastered. A java swing library that remasters basic swing 
   </tr>
   <tr>
     <td align="center"><b>Remastered</b></td>
-    <td align="center"><b>old</b></td>
+    <td align="center"><b>Old</b></td>
   </tr>
 </table>
 
@@ -123,7 +122,7 @@ A showcase of Swing Remastered. A java swing library that remasters basic swing 
   </tr>
   <tr>
     <td align="center"><b>Remastered</b></td>
-    <td align="center"><b>old</b></td>
+    <td align="center"><b>Old</b></td>
   </tr>
 </table>
 
@@ -150,7 +149,7 @@ A showcase of Swing Remastered. A java swing library that remasters basic swing 
   </tr>
   <tr>
     <td align="center"><b>Remastered</b></td>
-    <td align="center"><b>default OS look(uncustomizable)</b></td>
+    <td align="center"><b>Standard OS Look (uncustomizable)</b></td>
   </tr>
 </table>
 
