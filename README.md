@@ -62,12 +62,8 @@ A showcase of Swing Remastered. A java swing library that remasters basic swing 
   - sets accent color.
 - setBackground(Color bg)
   - sets background color.
-- setHoverBackgroundColor(Color color)
-  - sets on hover background color.
 - setBorderColor(Color color)
   - sets border color of the combo box
-- setHoverBorderColor(Color color)
-  - sets on hover border color.
 - setRadius(int radius)
   - sets border radius.
 
