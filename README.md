@@ -1,6 +1,20 @@
 # Swing Remastered: library
-A showcase of Swing Remastered. A java swing library that remasters basic swing components that are fully compatible with basic components.
+Modernize your Java applications instantly.
 
+Let’s be honest. Java Swing is a incredibly lightweight, but visually, it’s stuck in the 90s. I built Swing Remastered because I wanted the stability of Java with the aesthetics of a modern UI without having to use heavier JavaFX or even heavier to web technologies like Electron.
+
+This isn’t just a skin. It’s a complete remaster of the core components, adding smooth animations and transitions, all while remaining 100% compatible with the Swing logic you already know.
+
+# Usage
+incredibly simple usage just adding one extra letter.
+- JButton -> JRButton
+- JFrame -> JRFrame
+- works exactly the same for every component.
+
+# Installation
+- Download the JAR file.
+- Add to Path: Add the JAR to your project's Build Path / Libraries.
+- No Extrenal Dependencies: The library is standalone. No extra downloads required.
 
 # Available Components
 ## JRButton
@@ -164,3 +178,5 @@ A showcase of Swing Remastered. A java swing library that remasters basic swing 
 - setTitle(String title)
 - setBackground(Color color)
   - sets the background of the frame with its borders(left, right, bottom).
+
+# Pricing & License
