@@ -192,22 +192,23 @@ To keep the price accessible, I handle sales manually to avoid platform fees.
 - **Unlimited Lifetime Updates** (One-time purchase. No subscriptions. Ever.)
 - **Direct Email Support** (I personally help with integration and bug fixes)
 
-## Pricing
+## Pricinghub
 **Individual**
 - **€10.00**
 - Strictly for non-profit, educational, or personal hobby projects.
+
 **Entity**
-- **€50.00**]
+- **€50.00**
 - **MANDATORY** for commercial apps, freelancers, or any profit-generating use.
 
 ### EU Option A: EU Residents (Bank Transfer)
 1. ...
 2. Please write your **GitHub Username** in the payment message.
-3. Email ... with a photo confirmation and your Github Username.
+3. Email ... with a photo confirmation and your GitHub Username.
 
 ### NON-EU Option B:
 Please email ... with the subject **"Purchase Non-EU"**.
-I will reply soon.
+I will reply shortly with the payment details.
 
 ### License & Legal
 **Copyright (c) 2025 - Present Luděk Hanzík.**
