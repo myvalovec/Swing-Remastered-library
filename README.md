@@ -17,6 +17,34 @@ incredibly simple usage just adding one extra letter.
 - No Extrenal Dependencies: The library is standalone. No extra downloads required.
 
 # Available Components
+## JRFrame
+<table>
+  <tr>
+    <td align="center">
+      <img src="./gifs/JRFrame_1.gif" height="300" alt="JRFrame 1">
+    </td>
+    <td align="center">
+      <img src="./gifs/JFrame_1.gif" height="300" alt="JFrame 1">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Remastered</b></td>
+    <td align="center"><b>Standard OS Look (uncustomizable)</b></td>
+  </tr>
+</table>
+
+### Constructors:
+- JRFrame()
+- JRFrame(String title)
+### Modified functions:
+- setTitleBarBackground(Color color)
+  - sets color of the title bar.
+- setTitleBarForeground(Color color)
+  - sets color of the frames title text.
+- setTitle(String title)
+- setBackground(Color color)
+  - sets the background of the frame with its borders(left, right, bottom).
+
 ## JRButton
 <table>
   <tr>
@@ -150,33 +178,5 @@ incredibly simple usage just adding one extra letter.
 - setRadius(int radius)
 
 ## JRPanel
-
-## JRFrame
-<table>
-  <tr>
-    <td align="center">
-      <img src="./gifs/JRFrame_1.gif" height="300" alt="JRFrame 1">
-    </td>
-    <td align="center">
-      <img src="./gifs/JFrame_1.gif" height="300" alt="JFrame 1">
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Remastered</b></td>
-    <td align="center"><b>Standard OS Look (uncustomizable)</b></td>
-  </tr>
-</table>
-
-### Constructors:
-- JRFrame()
-- JRFrame(String title)
-### Modified functions:
-- setTitleBarBackground(Color color)
-  - sets color of the title bar.
-- setTitleBarForeground(Color color)
-  - sets color of the frames title text.
-- setTitle(String title)
-- setBackground(Color color)
-  - sets the background of the frame with its borders(left, right, bottom).
 
 # Pricing & License
