@@ -1,20 +1,28 @@
 SWING REMASTERED - COMMERCIAL NOTICE
-Copyright (c) 2025 - Present Luděk Hanzík.
+Copyright (c) 2025 - Present Luděk Hanzík. All Rights Reserved.
 
 NOTICE TO USERS:
-This repository contains the documentation and preview for "Swing Remastered." 
-This is a **Paid Source-Available** library. Purchasing a license grants you 
+This repository contains the documentation and previews for 
+"Swing Remastered." The actual source code is hosted in a private repository.
+
+This is **Paid Source-Available** software. Purchasing a license grants you 
 full access to the source code for inspection, modification, and integration.
 
 PRICING TIERS:
 1. INDIVIDUAL LICENSE (10.00 EUR):
-   - For non-profit, educational, or personal projects.
+   - Strictly for non-profit, educational, or personal hobby projects.
 2. ENTITY LICENSE (50.00 EUR):
-   - MANDATORY for commercial applications, companies, or profit-generating use.
+   - MANDATORY for commercial applications, freelancers, companies, or 
+     any profit-generating usage.
 
 LEGAL WARNING:
-Although the source code is provided to customers, it is **NOT** free software 
+Although the source code is provided to customers, it is **NOT** Open Source 
 (e.g., MIT/GPL). It is proprietary commercial software.
-- You MAY modify the source code for your own projects.
-- You MAY NOT redistribute, leak, or sell the source code itself.
-- Access to the private repository is strictly for the license holder.
+
+- You MAY modify the source code for your own licensed projects.
+- You MAY NOT redistribute, leak, upload to public repositories, or sell 
+  the source code itself.
+- You MAY NOT use the source code to train AI models.
+
+Unlicensed use or distribution of the source code is a violation of 
+copyright law and will be pursued.
