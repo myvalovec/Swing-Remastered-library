@@ -3,7 +3,11 @@ Modernize your Java applications instantly.
 
 Let’s be honest. Java Swing is a incredibly lightweight, but visually, it’s stuck in the 90s. I built Swing Remastered because I wanted the stability of Java with the aesthetics of a modern UI without having to use heavier JavaFX or even heavier to web technologies like Electron.
 
-This isn’t just a skin. It’s a complete remaster of the core components, adding smooth animations and transitions, all while remaining 100% compatible with the Swing logic you already know.
+## Why Swing Remastered?
+- **Lightweight & Simple:** No heavy LaF overhead. Easy usage for everyone that has basic swing knowledge
+- **Zero External Depencencies:** No external downloads.
+- **Source Available:** You don't just get a JAR. You also get the code.
+- **Drop-in:** Works alongside standard Swing components perfectly.
 
 # Usage
 incredibly simple usage just adding one extra letter.
@@ -16,7 +20,7 @@ incredibly simple usage just adding one extra letter.
 - Add to Path: Add the JAR to your project's Build Path / Libraries.
 - No Extrenal Dependencies: The library is standalone. No extra downloads required.
 
-# Available Components
+# Component Gallery
 ## JRFrame
 <table>
   <tr>
@@ -179,4 +183,39 @@ incredibly simple usage just adding one extra letter.
 
 ## JRPanel
 
-# Pricing & License
+# Pricing & Access
+Swing Remastered is a **Paid Source-Available** library.
+To keep the price accessible, I handle sales manually to avoid platform fees.
+
+### What is included?
+- **Full Source Code Access** (Private GitHub Repo)
+- **Unlimited Lifetime Updates** (One-time purchase. No subscriptions. Ever.)
+- **Direct Email Support** (I personally help with integration and bug fixes)
+
+## Pricing
+**Individual**
+- **€10.00**
+- Strictly for non-profit, educational, or personal hobby projects.
+**Entity**
+- **€50.00**]
+- **MANDATORY** for commercial apps, freelancers, or any profit-generating use.
+
+### EU Option A: EU Residents (Bank Transfer)
+1. ...
+2. Please write your **GitHub Username** in the payment message.
+3. Email ... with a photo confirmation and your Github Username.
+
+### NON-EU Option B:
+Please email ... with the subject **"Purchase Non-EU"**.
+I will reply soon.
+
+### License & Legal
+**Copyright (c) 2025 - Present Luděk Hanzík.**
+
+**This is NOT Open Source software.**
+Swing Remastered is a **proprietary, commercial library**.
+
+* **Allowed:** Modifying source code for licensed projects, embedding in compiled apps.
+* **Prohibited:** Redistributing source code, reselling, or AI training.
+
+Full terms are available in the [LICENSE](LICENSE) file.
