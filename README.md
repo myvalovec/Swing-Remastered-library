@@ -251,12 +251,12 @@ To keep the price accessible, I handle sales manually to avoid platform fees.
 - **MANDATORY** for commercial apps, freelancers, or any profit-generating use.
 
 ### EU Option A: EU Residents (Bank Transfer)
-1. ...
+1. **[Click here to view Bank Details (IBAN/SWIFT)](https://gist.github.com/myvalovec/bd77526658f25e657b0668919ee3d23c)**
 2. Please write your **GitHub Username** in the payment message.
-3. Email ... with a photo confirmation and your GitHub Username.
+3. Email swingremastered@gmail.com with a photo confirmation and your GitHub Username.
 
 ### NON-EU Option B:
-Please email ... with the subject **"Purchase Non-EU"**.
+Please email swingremastered@gmail.com with the subject **"Purchase Non-EU"**.
 I will reply shortly with the payment details.
 
 ### License & Legal
