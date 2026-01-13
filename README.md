@@ -255,6 +255,9 @@ To keep the price accessible, I handle sales manually to avoid platform fees.
 2. Please write your **GitHub Username** in the payment message.
 3. Email swingremastered@gmail.com with a photo confirmation and your GitHub Username.
 
+> **Note:**
+> Access to the private repository is granted **within 24 hours** of the payment being credited to the account.
+
 ### NON-EU Option B:
 Please email swingremastered@gmail.com with the subject **"Purchase Non-EU"**.
 I will reply shortly with the payment details.
