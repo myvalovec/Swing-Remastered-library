@@ -156,6 +156,32 @@ incredibly simple usage just adding one extra letter.
 - setTextColors(Color onTrack, Color onFill)
 - setRadius(int r)
 
+## JRTextField
+<table>
+  <tr>
+    <td align="center">
+      <img src="./gifs/JRTextField_1.gif" height="300" alt="JRTextField 1">
+    </td>
+    <td align="center">
+      <img src="./gifs/JTextField_1.gif" height="300" alt="JTextField 1">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Remastered</b></td>
+    <td align="center"><b>Old</b></td>
+  </tr>
+</table>
+
+### Constructors:
+- JRTextField()
+- JRTextField(String text)
+- JRTextField(int columns)
+- JRTextField(String text, int columns)
+### Modified functions:
+- setRadius(int radius)
+- setAccentColor(Color color)
+- setBorderColor(Color color)
+
 ## JRComboBox
 <table>
   <tr>
@@ -182,6 +208,29 @@ incredibly simple usage just adding one extra letter.
 - setRadius(int radius)
 
 ## JRPanel
+<table>
+  <tr>
+    <td align="center">
+      <img src="./gifs/JRPanel_1.gif" height="300" alt="JRPanel 1">
+    </td>
+    <td align="center">
+      <img src="./gifs/JPanel_1.gif" height="300" alt="JPanel 1">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Remastered</b></td>
+    <td align="center"><b>Old</b></td>
+  </tr>
+</table>
+
+### Constructors:
+- JRPanel()
+### Modified functions:
+- setRadius(int radius)
+- setShadowSize(int size)
+- setShadowOpacity(float opacity)
+- setShadowColor(Color color)
+- setBackground(Color bg)
 
 # Pricing & Access
 Swing Remastered is a **Paid Source-Available** library.
