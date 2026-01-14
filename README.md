@@ -181,6 +181,7 @@ incredibly simple usage just adding one extra letter.
 - setRadius(int radius)
 - setAccentColor(Color color)
 - setBorderColor(Color color)
+- setPadding(int size)
 
 ## JRComboBox
 <table>
@@ -241,7 +242,7 @@ To keep the price accessible, I handle sales manually to avoid platform fees.
 - **Unlimited Lifetime Updates** (One-time purchase. No subscriptions. Ever.)
 - **Direct Email Support** (I personally help with integration and bug fixes)
 
-## Pricinghub
+## Pricing
 **Individual**
 - **€10.00**
 - Strictly for non-profit, educational, or personal hobby projects.
